@@ -32,7 +32,7 @@
   <a href="https://discordapp.com/users/463611241026551809" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
   </a>
-  <a href="akedilbekbolatov@gmail.com" target="_blank">
+  <a href="https://akedilbekbolatov@gmail.com" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
   </a>
   <a href="www.linkedin.com/in/akedil-aidyn-69b54b2a0" target="_blank">
