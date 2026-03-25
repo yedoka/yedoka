@@ -1,5 +1,4 @@
-<h1 align="center">Akedil</h1>
-<p align="center">Full Stack Software Engineer</p>
+<p align="center">Software Engineer</p>
 
 <p align="center">
   <a href="mailto:akedilaidyn@email.com">Email</a> ·
@@ -15,7 +14,7 @@ I build reliable, well-structured software across the full stack - from clean UI
 ### Tech Stack
 
 **Frontend**  
-<img src="https://skillicons.dev/icons?i=react,ts,nextjs,tailwind" height="32" />
+<img src="https://skillicons.dev/icons?i=react,ts,nextjs" height="32" />
 
 **Backend**  
 <img src="https://skillicons.dev/icons?i=nodejs,express,nest" height="32" />
