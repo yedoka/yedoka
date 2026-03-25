@@ -3,7 +3,7 @@
 
 <p align="center">
   <a href="mailto:akedilaidyn@email.com">Email</a> ·
-  <a href="https://linkedin.com/in/yourhandle](https://www.linkedin.com/in/akedil-aidyn-69b54b2a0/">LinkedIn</a> ·
+  <a href="https://linkedin.com/in/yourhandle](https://www.linkedin.com/in/akedil-aidyn-69b54b2a0/">LinkedIn</a>
 </p>
 
 ---
