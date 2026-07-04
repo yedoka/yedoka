@@ -1,26 +1,36 @@
-<p align="center">Software Engineer</p>
+<h1 align="center">Aidyn Akedil</h1>
+<p align="center">Software Engineer — Full Stack</p>
 
 <p align="center">
-  <a href="mailto:akedilaidyn@email.com">Email</a> ·
-  <a href="https://linkedin.com/in/yourhandle](https://www.linkedin.com/in/akedil-aidyn-69b54b2a0/">LinkedIn</a>
+  <a href="mailto:akedilaidyn@gmail.com">Email</a> ·
+  <a href="https://www.linkedin.com/in/akedil-aidyn-69b54b2a0/">LinkedIn</a> ·
+  <a href="https://github.com/yedoka">GitHub</a>
 </p>
 
----
+<p align="center">
+  I build reliable, well-structured software across the full stack —<br/>
+  from clean UIs to scalable backends.
+</p>
 
-I build reliable, well-structured software across the full stack - from clean UIs to scalable backends.
+<br/>
 
----
+## Tech Stack
 
-### Tech Stack
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=react,ts,nextjs" height="36" />
+</p>
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=nodejs,express,nestjs" height="36" />
+</p>
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=postgres,mysql" height="36" />
+</p>
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=docker,githubactions,aws" height="36" />
+</p>
 
-**Frontend**  
-<img src="https://skillicons.dev/icons?i=react,ts,nextjs" height="32" />
+<br/>
 
-**Backend**  
-<img src="https://skillicons.dev/icons?i=nodejs,express,nest" height="32" />
+## GitHub Stats
 
-**Database**  
-<img src="https://skillicons.dev/icons?i=postgres,mysql" height="32" />
-
-**DevOps**  
-<img src="https://skillicons.dev/icons?i=docker,githubactions,aws" height="32" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yedoka&theme=dark&hide_border=true" height="150" />
